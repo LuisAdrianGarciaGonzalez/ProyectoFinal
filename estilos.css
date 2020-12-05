@@ -9,7 +9,7 @@ body, html{
 }
 
 body{
-    background-image: url("/hoja.jpg");
+    background-image: url("hoja.jpg");
 
 }
 
@@ -85,7 +85,7 @@ body{
     }
 
 .contenedor{
-    background-image: url("/carton.jpg");
+    background-image: url("carton.jpg");
     width: 1000px;
     position: fixed;
     top: 110px;
